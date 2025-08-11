@@ -17,6 +17,8 @@
     "prepare": "husky"
   },
   "dependencies": {
+    "degit": "^2.8.4",
+    "kolorist": "^1.8.0",
     "@fontsource/roboto": "5.2.6",
     "@mdi/font": "7.4.47",
     "pinia": "^3.0.3",
