@@ -1,10 +1,10 @@
 {
-  "name": "rv-vue",
+  "name": "create-rv-vue",
   "type": "module",
   "files":["bin","templates","README.md","LICENSE"],
   "license":"MIT",
-  "bin":{"rv-vue":"bin/index.js"},
-  "version": "1.1.0",
+  "bin":{"create-rv-vue":"bin/index.js"},
+  "version": "1.2.0",
   "scripts": {
     "dev": "vite",
     "build": "run-p type-check \"build-only {@}\" --",
